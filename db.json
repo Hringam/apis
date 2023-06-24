@@ -179,69 +179,9 @@
     }
   ],
   "yAxis": [
-    {
-      "ctId": 1,
-      "data": [
-        "Power",
-        "Temperature",
-        "Carbon Dioxide"
-      ]
-    },
-    
-    {
-      "ctId": 2,
-      "data": [
-        "Energy"
-      ]
-    },
-    {
-      "ctId": 3,
-      "data": [
-        "Power",
-        "Temperature",
-        "Carbon Dioxide"
-      ]
-    },
-    {
-      "ctId": 4,
-      "data": [
-        "Power",
-        "Temperature",
-        "Carbon Dioxide"
-      ]
-    },
-    {
-      "ctId": 5,
-      "data": [
-        "Power",
-        "Temperature",
-        "Carbon Dioxide"
-      ]
-    },
-    {
-      "ctId": 6,
-      "data": [
-        "Power",
-        "Temperature",
-        "Carbon Dioxide"
-      ]
-    },
-    {
-      "ctId": 7,
-      "data": [
-        "Power",
-        "Temperature",
-        "Carbon Dioxide"
-      ]
-    },
-    {
-      "ctId": 8,
-      "data": [
-        "Power",
-        "Temperature",
-        "Carbon Dioxide"
-      ]
-    }
+     {
+      "data": ["Power", "Temperature", "Carbon Dioxide"]
+    }  
   ],
   "measurementLabel": [
     {
