@@ -1,0 +1,211 @@
+{
+  "reportdata": [
+    {
+      "id": 1,
+      "lastViewed": "2023-06-23T07:19:49.875Z",
+      "userId": 23,
+      "label": "Daily Power Consumption",
+      "value": 1,
+      "icon": 1
+    },
+    {
+      "id": 2,
+      "lastViewed": "2023-06-23T07:19:52.781Z",
+      "userId": 22,
+      "label": "Daily CO2 Levels",
+      "value": 2,
+      "icon": 2
+    },
+    {
+      "id": 3,
+      "lastViewed": "2023-06-23T07:19:47.651Z",
+      "userId": 23,
+      "label": "Daily Temperature Levels",
+      "value": 3,
+      "icon": 3
+    },
+    {
+      "id": 4,
+      "lastViewed": "2023-06-23T07:19:51.291Z",
+      "userId": 23,
+      "label": "Monthly Power Consumption",
+      "value": 4,
+      "icon": 4
+    },
+    {
+      "id": 5,
+      "lastViewed": "2023-06-23T07:19:46.002Z",
+      "userId": 23,
+      "label": "Monthly Tempeature Levels",
+      "value": 5,
+      "icon": 5
+    },
+    {
+      "id": 6,
+      "lastViewed": "2023-06-23T07:19:48.909Z",
+      "userId": 23,
+      "label": "Daily Air Quality",
+      "value": 6,
+      "icon": 6
+    }
+  ],
+  "chartType": [
+    {
+      "id": 1,
+      "name": "Line Chart"
+    },
+    {
+      "id": 2,
+      "name": "Bar Chart"
+    },
+    {
+      "id": 3,
+      "name": "Area Chart"
+    },
+    {
+      "id": 4,
+      "name": "Multi-Line Chart"
+    },
+    {
+      "id": 5,
+      "name": "Multi-Bar Chart"
+    },
+    {
+      "id": 6,
+      "name": "Multi-Area Chart"
+    },
+    {
+      "id": 7,
+      "name": "Comined"
+    },
+    {
+      "id": 8,
+      "name": "Pie Chart"
+    }
+  ],
+  "reportType": [
+    {
+      "id": 1,
+      "name": "Average"
+    },
+    {
+      "id": 2,
+      "name": "Sum"
+    },
+    {
+      "id": 3,
+      "name": "Min"
+    },
+    {
+      "id": 4,
+      "name": "Max"
+    },
+    {
+      "id": 5,
+      "name": "Count"
+    },
+    {
+      "id": 6,
+      "name": "Actual"
+    }
+  ],
+  "reportInterval": [
+    {
+      "id": 1,
+      "name": "Daily"
+    },
+    {
+      "id": 2,
+      "name": "Weekly"
+    },
+    {
+      "id": 3,
+      "name": "Monthly"
+    },
+    {
+      "id": 4,
+      "name": "Yearly"
+    }
+  ],
+  "xAxis": [
+    {
+      "ctId": 2,
+      "data": [
+        "You",
+        "I"
+      ]
+    },
+    {
+      "ctId": 1,
+      "data": [
+        "Data",
+        "People"
+      ]
+    },
+    {
+      "ctId": 5,
+      "data": [
+        "Time"
+      ]
+    }
+  ],
+  "yAxis": [
+    {
+      "ctId": 1,
+      "data": [
+        "Power",
+        "Temperature",
+        "Carbon Dioxide"
+      ]
+    },
+    {
+      "ctId": 2,
+      "data": [
+        "Love",
+        "Hate",
+        "OK"
+      ]
+    },
+    {
+      "ctId": 5,
+      "data": [
+        "Power",
+        "Temperature",
+        "Carbon Dioxide"
+      ]
+    }
+  ],
+  "measurementLabel": [
+    {
+      "id": 1,
+      "name": "Power",
+      "label": [
+        "kWh",
+        "Wh"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Temperature",
+      "label": [
+        "F",
+        "C"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Power",
+      "label": [
+        "PPM"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Power",
+      "label": [
+        "PPM"
+      ]
+    }
+  ],
+  "data": []
+}
