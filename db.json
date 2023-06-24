@@ -178,11 +178,7 @@
       ]
     }
   ],
-  "yAxis": [
-     {
-      "data": ["Power", "Temperature", "Carbon Dioxide"]
-    }  
-  ],
+  "yAxis": ["Power", "Temperature", "Carbon Dioxide"],
   "measurementLabel": [
     {
       "id": 1,
