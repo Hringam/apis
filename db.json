@@ -141,7 +141,38 @@
       ]
     },
     {
+      "ctId": 3,
+      "data": [
+        "Time"
+      ]
+    },
+    {
+      "ctId": 4,
+      "data": [
+        "Time"
+      ]
+    },
+    {
+      "ctId": 6,
+      "data": [
+        "Time"
+      ]
+    },
+     {
+      "ctId": 7,
+      "data": [
+        "Time"
+      ]
+    },
+    
+    {
       "ctId": 5,
+      "data": [
+        "Time"
+      ]
+    },
+     {
+      "ctId": 8,
       "data": [
         "Time"
       ]
@@ -156,6 +187,7 @@
         "Carbon Dioxide"
       ]
     },
+    
     {
       "ctId": 2,
       "data": [
@@ -163,7 +195,47 @@
       ]
     },
     {
+      "ctId": 3,
+      "data": [
+        "Power",
+        "Temperature",
+        "Carbon Dioxide"
+      ]
+    },
+    {
+      "ctId": 4,
+      "data": [
+        "Power",
+        "Temperature",
+        "Carbon Dioxide"
+      ]
+    },
+    {
       "ctId": 5,
+      "data": [
+        "Power",
+        "Temperature",
+        "Carbon Dioxide"
+      ]
+    },
+    {
+      "ctId": 6,
+      "data": [
+        "Power",
+        "Temperature",
+        "Carbon Dioxide"
+      ]
+    },
+    {
+      "ctId": 7,
+      "data": [
+        "Power",
+        "Temperature",
+        "Carbon Dioxide"
+      ]
+    },
+    {
+      "ctId": 8,
       "data": [
         "Power",
         "Temperature",
